@@ -15,6 +15,7 @@ server.set("views", path.join(__dirname, "views"))
 server.use("/site", express.static(path.join(__dirname, 'public')));
 server.use(express.json());
 server.get("/", renderHTML)
+server.get("/messageSite", renderHTMLMessages)
 server.use("/family", familyRouter);
 server.use("/messages", messagesRouter);
 
@@ -27,6 +28,15 @@ function renderHTML(req, res) {
       paragraph: " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim ad temporibus assumenda et magni, eligendi, eum error placeat sit rerum dolore. ",
    })
 }
+
+function renderHTMLMessages(req, res) {
+   res.render("messages", {
+      title:"Messages site", 
+      name:"Elon Musk",
+      hisMessage:"Hello from Elon Musk"
+   })
+}
+
 function listeningHandler(){
    console.log("Listening to the server !!!");
 }
