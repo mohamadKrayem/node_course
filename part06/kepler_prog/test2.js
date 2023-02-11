@@ -1,6 +1,6 @@
 const parser = require('csv-parse');
 const fs = require('fs')
-const parse = parser.parse;
+const parse = parser.parse;//assign the function parser.parse to variable called parse.
 
 const event_emitter = fs.createReadStream('./kepler_data.csv');
 
@@ -40,6 +40,7 @@ event_emitter//let's subscribe to some events, let's do it by chaining
     * 
     */
     .once('data', function OnceWeHaveDataDoThisForOneTime(data){
+      //belongs to the piped stream's listeners arrays
         //data is parsed
         console.log("me after")
         console.log(data);
