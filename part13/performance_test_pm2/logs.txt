@@ -1,0 +1,272 @@
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
+Error: listen EACCES: permission denied 0.0.0.0:300
+    at Server.setupListenHandle [as _listen2] (node:net:1723:21)
+    at listenInCluster (node:net:1788:12)
+    at Server.listen (node:net:1876:7)
+    at Function.listen (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/node_modules/express/lib/application.js:635:24)
+    at Object.<anonymous> (/home/mohamadk/Desktop/courses/node_course/code_notes/part13/performance_test_pm2/server.js:18:5)
+    at Module._compile (node:internal/modules/cjs/loader:1246:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1300:10)
+    at Module.load (node:internal/modules/cjs/loader:1103:32)
+    at Module._load (node:internal/modules/cjs/loader:942:12)
+    at Object.<anonymous> (/usr/lib/node_modules/pm2/lib/ProcessContainerFork.js:33:23) {
+  code: 'EACCES',
+  errno: -13,
+  syscall: 'listen',
+  address: '0.0.0.0',
+  port: 300
+}
